@@ -1,6 +1,6 @@
 # Project Euler practice in C#
 
-One console app, one C# file per Project Euler problem. Install the .NET 10 SDK to get started. No extra packages are needed.
+One console app, one C# file per [Project Euler](https://projecteuler.net/) problem. Install the .NET 10 SDK to get started. No extra packages are needed.
 
 This repository contains the runner and a blank template. Your problem statements, notes, and solutions live in `Problems/`, which is ignored by Git so your practice stays local.
 
