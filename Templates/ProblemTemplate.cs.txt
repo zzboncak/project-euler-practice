@@ -1,0 +1,19 @@
+/*
+Project Euler - Problem {{ProblemNumber}}
+
+Paste the problem statement here.
+*/
+
+namespace ProjectEulerPractice.Problems;
+
+public class Problem{{PaddedProblemNumber}} : IProblem
+{
+    public int Number => {{ProblemNumber}};
+
+    public string Solve()
+    {
+        // Write your solution here.
+        // Return your answer as text: return answer.ToString();
+        throw new NotImplementedException();
+    }
+}

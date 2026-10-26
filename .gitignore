@@ -1,0 +1,10 @@
+bin/
+obj/
+.DS_Store
+*.user
+*.suo
+.vs/
+.idea/
+
+# Keep personal problem statements, notes, and solutions local.
+/Problems/
